@@ -1,0 +1,9 @@
+**/Scripts
+**/Lib
+**/Include
+/pyenv.cfg
+/pyvenv.cfg
+**/build
+**/dist
+/AppFocus.spec
+**/Old
